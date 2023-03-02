@@ -1,5 +1,9 @@
 [
   {
+    "package": "ptable",
+    "oncran": true
+  },
+  {
     "package": "sdcMicro",
     "oncran": true
   }
