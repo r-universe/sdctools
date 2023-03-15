@@ -1,10 +1,10 @@
 [
   {
-    "package": "sdcMicro",
+    "package": "ptable",
     "oncran": true
   },
   {
-    "package": "ptable",
+    "package": "sdcMicro",
     "oncran": true
   }
 ]

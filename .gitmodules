@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "sdcMicro"]
-	path = sdcMicro
-	url = https://github.com/sdctools/sdcmicro
-	shallow = true
-	registered = true
 [submodule "ptable"]
 	path = ptable
 	url = https://github.com/sdctools/ptable
+	shallow = true
+	registered = true
+[submodule "sdcMicro"]
+	path = sdcMicro
+	url = https://github.com/sdctools/sdcmicro
 	shallow = true
 	registered = true
