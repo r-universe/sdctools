@@ -5,6 +5,3 @@
 [submodule "ptable"]
 	path = ptable
 	url = https://github.com/sdctools/ptable
-[submodule "sdcMicro"]
-	path = sdcMicro
-	url = https://github.com/sdctools/sdcmicro
